@@ -1,7 +1,5 @@
 
 
-!pip install openai-whisper ffmpeg-python jiwer pandas
-
 import whisper
 from jiwer import wer, cer
 import librosa
