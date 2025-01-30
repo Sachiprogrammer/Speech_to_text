@@ -23,10 +23,10 @@ python transcribe_audio.py --audio sample_audio.wav
 - **Waveform & Spectrogram Visualizations**
 
 ### Audio Waveform
-![Audio Waveform](images/audio_waveform.png)
+![Audio Waveform](Images/audio_waveform.png)
 
 ### Spectrogram
-![Spectrogram](images/Spectrogram.png)
+![Spectrogram](Images/Spectrogram.png)
 - **Transcribed Text**
 - **WER & CER Scores**
 - **Waveform & Spectrogram Visualizations**
