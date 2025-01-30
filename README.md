@@ -27,6 +27,4 @@ python transcribe_audio.py --audio sample_audio.wav
 
 ### Spectrogram
 ![Spectrogram](Images/Spectrogram.png)
-- **Transcribed Text**
-- **WER & CER Scores**
-- **Waveform & Spectrogram Visualizations**
+
